@@ -1,0 +1,41 @@
+2. Analise a seguinte descrição de um problema e identifique as partes comuns de um algoritmo
+(Entrada, Processamento e Saída):
+
+Um programa deve calcular a idade de uma pessoa com base no ano de nascimento fornecido pelo
+usuário. O programa exibe a idade calculada na tela.
+Perguntas:
+
+a) Qual é a entrada de dados? Ano de nascimento.
+b) Qual é o processamento realizado? Subtração do ano de nacimento com o ano atual.
+c) Qual é a saída de dados? Resultado da subtração, que é igual a idade.
+
+3. A seguir, são apresentados três problemas diferentes. Para cada um deles, identifique:
+• Entrada de dados (informações fornecidas pelo usuário)
+• Saída de dados (informação que será exibida para o usuário)
+• Possíveis variáveis que poderiam ser utilizadas para armazenar os dados e realizar o
+processamento.
+
+a) Uma empresa deseja criar um sistema que calcula o salário final de um funcionário. O sistema
+precisa receber o valor do salário base e o percentual de bônus aplicado. O programa deve
+calcular e exibir o valor final do salário com o bônus incluído.
+entrada de dados: Salário base, percentual de bônus.
+saida de dados: Salário final com bônus.
+possiveis variaveis: salarioBase, percentualBonus, salarioFinal
+
+
+b) Um posto de gasolina precisa de um programa que calcule o valor a ser pago por um cliente. O
+cliente informa quantos litros abasteceu e o preço por litro. O programa deve calcular e exibir
+o valor total da compra.
+entrada de dados: Litros abastecidos, preço por litro.
+saida de dados: Valor total da compra.
+possiveis variaveis: litros, precoPorLitro, valorTotal.
+
+
+c) Um consultório médico deseja registrar informações básicas dos pacientes para futuras
+consultas. O sistema precisa armazenar os seguintes dados de cada paciente, para
+acompanhamento ao longo do tempo: sexo (M ou F), dia, mês e ano de nascimento, altura
+(em metros) e peso (em kg).
+entrada de dados: Sexo, data de nascimento, altura, peso.
+saida de dados: Informações armazenadas.
+possiveis variaveis: sexo, diaNascimento, mesNascimento, anoNascimento, altura, peso.
+
